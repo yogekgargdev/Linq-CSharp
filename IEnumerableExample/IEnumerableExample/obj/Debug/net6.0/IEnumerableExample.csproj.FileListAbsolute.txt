@@ -1,0 +1,15 @@
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\bin\Debug\net6.0\IEnumerableExample.exe
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\bin\Debug\net6.0\IEnumerableExample.deps.json
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\bin\Debug\net6.0\IEnumerableExample.runtimeconfig.json
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\bin\Debug\net6.0\IEnumerableExample.dll
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\bin\Debug\net6.0\IEnumerableExample.pdb
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.csproj.AssemblyReference.cache
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.AssemblyInfoInputs.cache
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.AssemblyInfo.cs
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.csproj.CoreCompileInputs.cache
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.dll
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\refint\IEnumerableExample.dll
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.pdb
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\IEnumerableExample.genruntimeconfig.cache
+C:\Users\Yogek.Garg\Documents\Linq\IEnumerableExample\IEnumerableExample\obj\Debug\net6.0\ref\IEnumerableExample.dll
