@@ -19,6 +19,19 @@ foreach(int i in CarObj)
 }
 Console.WriteLine("FirstOrDefault: " + CarObj.FirstOrDefault());
 
+/// Generation Operations
+// Empty IEnumerable
+Console.WriteLine(Enumerable.Empty<int>());
+// Repeat IEnumerable
+Console.WriteLine(Enumerable.Repeat("Hello", 3));
+// Range
+Console.WriteLine(Enumerable.Range(1, 10));
+// Printing letters from a - z
+Console.WriteLine(Enumerable.Range('a', 'z' - 'a' + 1).Select(x => (char)x));
+// print string with each increaing length by 1, starting from length 1
+Console.WriteLine(Enumerable.Range(1, 10).Select(x => new String('x', x)));
+///////////////////////////////////
+
 Console.ReadLine();
 public class Person
 {
